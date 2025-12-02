@@ -1,0 +1,16 @@
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\bin\Release\netcoreapp3.1\SistemaFacturacion.Datos.deps.json
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\bin\Release\netcoreapp3.1\SistemaFacturacion.Datos.runtimeconfig.json
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\bin\Release\netcoreapp3.1\SistemaFacturacion.Datos.runtimeconfig.dev.json
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\bin\Release\netcoreapp3.1\SistemaFacturacion.Datos.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\bin\Release\netcoreapp3.1\SistemaFacturacion.Datos.pdb
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\bin\Release\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\bin\Release\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\obj\Release\netcoreapp3.1\SistemaFacturacion.Datos.csproj.AssemblyReference.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\obj\Release\netcoreapp3.1\SistemaFacturacion.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\obj\Release\netcoreapp3.1\SistemaFacturacion.Datos.AssemblyInfoInputs.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\obj\Release\netcoreapp3.1\SistemaFacturacion.Datos.AssemblyInfo.cs
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\obj\Release\netcoreapp3.1\SistemaFacturacion.Datos.csproj.CoreCompileInputs.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\obj\Release\netcoreapp3.1\SistemaFacturacion.Datos.csproj.CopyComplete
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\obj\Release\netcoreapp3.1\SistemaFacturacion.Datos.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\obj\Release\netcoreapp3.1\SistemaFacturacion.Datos.pdb
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Datos\obj\Release\netcoreapp3.1\SistemaFacturacion.Datos.genruntimeconfig.cache
