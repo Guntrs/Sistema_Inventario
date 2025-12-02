@@ -1,0 +1,10 @@
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\bin\Release\netcoreapp3.1\SistemaFacturacion.Entidades.deps.json
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\bin\Release\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\bin\Release\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\obj\Release\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.AssemblyReference.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\obj\Release\netcoreapp3.1\SistemaFacturacion.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\obj\Release\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfoInputs.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\obj\Release\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfo.cs
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\obj\Release\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.CoreCompileInputs.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\obj\Release\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\obj\Release\netcoreapp3.1\SistemaFacturacion.Entidades.pdb

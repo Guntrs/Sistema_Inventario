@@ -1,0 +1,1183 @@
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.exe
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.deps.json
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.runtimeconfig.json
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.runtimeconfig.dev.json
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.pdb
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.Views.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.AssemblyReference.cache
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.AssemblyInfoInputs.cache
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.AssemblyInfo.cs
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.CoreCompileInputs.cache
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\SistemaFacturacion.Web.StaticWebAssets.Manifest.cache
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\SistemaFacturacion.Web.StaticWebAssets.xml
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\SistemaFacturacion.Web.styles.css
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorTargetAssemblyInfo.cache
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.pdb
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.genruntimeconfig.cache
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.CopyComplete
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Datos.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Datos.pdb
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.exe
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.deps.json
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.runtimeconfig.json
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.runtimeconfig.dev.json
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.pdb
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.Views.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Datos.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Datos.pdb
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.AssemblyReference.cache
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.AssemblyInfoInputs.cache
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.AssemblyInfo.cs
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.CoreCompileInputs.cache
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\SistemaFacturacion.Web.StaticWebAssets.Manifest.cache
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\SistemaFacturacion.Web.StaticWebAssets.xml
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\SistemaFacturacion.Web.styles.css
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.CopyComplete
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.pdb
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.genruntimeconfig.cache
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.StaticWebAssets.xml
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.exe
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.deps.json
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.runtimeconfig.json
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.runtimeconfig.dev.json
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.pdb
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.Views.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Datos.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Datos.pdb
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.AssemblyReference.cache
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.AssemblyInfoInputs.cache
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.AssemblyInfo.cs
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.CoreCompileInputs.cache
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\SistemaFacturacion.Web.StaticWebAssets.Manifest.cache
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\SistemaFacturacion.Web.StaticWebAssets.Pack.cache
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SistemaFacturacion.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SistemaFacturacion.Web.props
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SistemaFacturacion.Web.props
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SistemaFacturacion.Web.props
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.CopyComplete
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.pdb
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.genruntimeconfig.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.StaticWebAssets.xml
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.exe
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.deps.json
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.runtimeconfig.json
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.runtimeconfig.dev.json
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.pdb
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.Views.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Datos.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Datos.pdb
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.AssemblyReference.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.AssemblyInfoInputs.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.AssemblyInfo.cs
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.CoreCompileInputs.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorTargetAssemblyInfo.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\SistemaFacturacion.Web.StaticWebAssets.Manifest.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\SistemaFacturacion.Web.StaticWebAssets.Pack.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SistemaFacturacion.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SistemaFacturacion.Web.props
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SistemaFacturacion.Web.props
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SistemaFacturacion.Web.props
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.CopyComplete
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.pdb
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.genruntimeconfig.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.StaticWebAssets.xml
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.exe
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.deps.json
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.runtimeconfig.json
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.runtimeconfig.dev.json
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.pdb
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.Views.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Datos.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Datos.pdb
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.AssemblyReference.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.AssemblyInfoInputs.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.AssemblyInfo.cs
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.CoreCompileInputs.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorTargetAssemblyInfo.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\SistemaFacturacion.Web.StaticWebAssets.Manifest.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\SistemaFacturacion.Web.StaticWebAssets.Pack.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SistemaFacturacion.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SistemaFacturacion.Web.props
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SistemaFacturacion.Web.props
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SistemaFacturacion.Web.props
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.CopyComplete
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.pdb
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.genruntimeconfig.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.Views.pdb
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorAssemblyInfo.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorAssemblyInfo.cs
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.TagHelpers.input.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.TagHelpers.output.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorCoreGenerate.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layaout.cshtml.g.cs
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorTargetAssemblyInfo.cs
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.Views.pdb
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\Razor\Views\home\index.cshtml.g.cs
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.StaticWebAssets.xml
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.exe
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.deps.json
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.runtimeconfig.json
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.runtimeconfig.dev.json
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.pdb
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.Views.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.Views.pdb
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Datos.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Datos.pdb
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.AssemblyReference.cache
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.AssemblyInfoInputs.cache
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.AssemblyInfo.cs
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.CoreCompileInputs.cache
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorAssemblyInfo.cache
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorAssemblyInfo.cs
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.TagHelpers.input.cache
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.TagHelpers.output.cache
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorCoreGenerate.cache
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\Razor\Views\home\index.cshtml.g.cs
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layaout.cshtml.g.cs
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorTargetAssemblyInfo.cache
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorTargetAssemblyInfo.cs
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.Views.pdb
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\SistemaFacturacion.Web.StaticWebAssets.Manifest.cache
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\SistemaFacturacion.Web.StaticWebAssets.Pack.cache
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SistemaFacturacion.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SistemaFacturacion.Web.props
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SistemaFacturacion.Web.props
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SistemaFacturacion.Web.props
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.CopyComplete
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.pdb
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.genruntimeconfig.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.StaticWebAssets.xml
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.exe
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.deps.json
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.runtimeconfig.json
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.runtimeconfig.dev.json
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.pdb
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.Views.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Web.Views.pdb
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Datos.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Datos.pdb
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.AssemblyReference.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.AssemblyInfoInputs.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.AssemblyInfo.cs
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.CoreCompileInputs.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorAssemblyInfo.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorAssemblyInfo.cs
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.TagHelpers.input.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.TagHelpers.output.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorCoreGenerate.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\Razor\Views\home\index.cshtml.g.cs
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layaout.cshtml.g.cs
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorTargetAssemblyInfo.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.RazorTargetAssemblyInfo.cs
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.Views.pdb
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\SistemaFacturacion.Web.StaticWebAssets.Manifest.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\SistemaFacturacion.Web.StaticWebAssets.Pack.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SistemaFacturacion.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SistemaFacturacion.Web.props
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SistemaFacturacion.Web.props
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SistemaFacturacion.Web.props
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.csproj.CopyComplete
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.pdb
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Web\obj\Debug\netcoreapp3.1\SistemaFacturacion.Web.genruntimeconfig.cache

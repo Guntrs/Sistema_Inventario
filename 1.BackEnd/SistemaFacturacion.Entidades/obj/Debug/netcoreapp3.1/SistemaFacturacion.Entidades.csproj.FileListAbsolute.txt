@@ -1,0 +1,70 @@
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.deps.json
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.AssemblyReference.cache
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfoInputs.cache
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfo.cs
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.CoreCompileInputs.cache
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SistemaInventario2022\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.deps.json
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.AssemblyReference.cache
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfoInputs.cache
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfo.cs
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\Users\Gunter\Desktop\SISTEMA INVENTARIO\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.deps.json
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.AssemblyReference.cache
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfoInputs.cache
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfo.cs
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\Users\Virtual01\Desktop\SistemaInventario2023\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.deps.json
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.AssemblyReference.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfoInputs.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfo.cs
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.CoreCompileInputs.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.deps.json
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.AssemblyReference.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfoInputs.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfo.cs
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.CoreCompileInputs.cache
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SisFac\2.AspNetCore\10.SistemaFacturacionVersion01Completo\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.deps.json
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.AssemblyReference.cache
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfoInputs.cache
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfo.cs
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.CoreCompileInputs.cache
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SisFac\2.AspNetCore\SistemaNovaFarma\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.deps.json
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Entidades\bin\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.AssemblyReference.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfoInputs.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.AssemblyInfo.cs
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.csproj.CoreCompileInputs.cache
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.dll
+C:\SisFac\2.AspNetCore\SistemaFacturacionProduccion\SistemaFacturacion.Entidades\obj\Debug\netcoreapp3.1\SistemaFacturacion.Entidades.pdb
